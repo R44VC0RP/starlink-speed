@@ -292,7 +292,7 @@ export function StarlinkHomepage() {
       <Dialog open={showModal} onOpenChange={setShowModal}>
         <DialogContent className="bg-white p-6 rounded-lg shadow-lg max-w-md w-full">
           <DialogHeader>
-            <DialogTitle className="text-xl font-bold text-gray-900 text-center">Submit Speed Test <span className="text-sm text-gray-500">(It's free)</span></DialogTitle>
+            <DialogTitle className="text-xl font-bold text-gray-900 text-center">Submit Speed Test <span className="text-sm text-gray-500">(It&apos;s free)</span></DialogTitle>
           </DialogHeader>
           {formError && (
             <Alert variant="destructive">
