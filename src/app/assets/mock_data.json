@@ -1,0 +1,66 @@
+[{
+    "location": [
+        -81.39620523489302,
+        30.323810187450817
+    ],
+    "downloadSpeed": 500,
+    "uploadSpeed": 123,
+    "equipment": "Starlink Residential",
+    "name": "John Doe",
+    "createdAt": {
+        "$date": "2024-09-20T14:25:43.058Z"
+    }
+},
+{
+    "location": [
+        -7.012,
+        57.76
+    ],
+    "downloadSpeed": 190,
+    "uploadSpeed": 45,
+    "equipment": "Starlink Residential",
+    "name": "Alex",
+    "createdAt": {
+        "$date": "2024-09-20T14:25:43.058Z"
+    }
+},
+{
+    "location": [
+        -122.4194,
+        37.7749
+    ],
+    "downloadSpeed": 350,
+    "uploadSpeed": 80,
+    "equipment": "Starlink Mini",
+    "name": "Sarah Johnson",
+    "createdAt": {
+        "$date": "2024-09-21T09:15:22.123Z"
+    }
+},
+{
+    "location": [
+        151.2093,
+        -33.8688
+    ],
+    "downloadSpeed": 420,
+    "uploadSpeed": 95,
+    "equipment": "Starlink Base",
+    "name": "Michael Smith",
+    "createdAt": {
+        "$date": "2024-09-22T18:30:10.456Z"
+    }
+},
+{
+    "location": [
+        2.3522,
+        48.8566
+    ],
+    "downloadSpeed": 280,
+    "uploadSpeed": 60,
+    "equipment": "Starlink Residential",
+    "name": "Emma Dubois",
+    "createdAt": {
+        "$date": "2024-09-23T11:45:33.789Z"
+    }
+}
+]
